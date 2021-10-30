@@ -13,6 +13,7 @@ p {
 body {
     background-color: darkgray;
     color: black;
+    width: 960px;
 }
 .head {
     background-color: white;
