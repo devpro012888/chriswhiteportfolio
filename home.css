@@ -16,6 +16,8 @@ body {
 }
 .head {
     background-color: white;
+    border: black;
+    border-style: solid;
 }
 .nav {
     background-color: white;
