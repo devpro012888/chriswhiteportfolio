@@ -13,7 +13,8 @@ p {
 body {
     background-color: darkgray;
     color: black;
-    width: 89%;
+    margin: 0 auto;
+    padding: 89%;
 }
 .head {
     background-color: white;
