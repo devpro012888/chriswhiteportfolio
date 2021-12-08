@@ -53,3 +53,7 @@ li a:hover {
 .body {
     background-color: white;
 }
+footer {
+    text-align: center;
+    padding: 10px;
+}
