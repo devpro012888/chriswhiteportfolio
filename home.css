@@ -9,12 +9,12 @@ h3 {
 }
 p {
     text-align: justify;
+    padding: 10px;
 }
 body {
     background-color: darkgray;
     color: black;
     margin: 0 auto;
-    padding: 89%;
 }
 .head {
     background-color: white;
