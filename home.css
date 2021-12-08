@@ -55,5 +55,6 @@ li a:hover {
 }
 footer a {
     text-align: center;
+    margin: auto;
     padding: 10px;
 }
