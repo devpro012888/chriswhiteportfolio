@@ -14,8 +14,7 @@ body {
     background-color: darkgray;
     color: black;
     margin: 0 auto;
-    margin-left: 10px;
-    margin-right: 10px;
+    width: 89%;
 }
 .head {
     background-color: white;
