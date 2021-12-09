@@ -14,7 +14,7 @@ body {
     background-color: darkgray;
     color: black;
     margin: 0 auto;
-    padding: 20px;
+    width: 1200px;
 }
 .head {
     background-color: white;
@@ -49,12 +49,22 @@ li a {
 li a:hover {
     background-color: lightgrey;
 }
-
-.body {
-    background-color: white;
+img {
+    float: left;
+    padding-right: 10px;
 }
+.welcome {
+    text-align: justify;
+    margin: 0 auto;
+    padding-left: 300px;
+    padding-right: 200px;
+}
+
 footer a {
     text-align: center;
-    margin: auto;
-    padding: 30px;
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
+    bottom: 390px;
+    left: 750px;
 }
