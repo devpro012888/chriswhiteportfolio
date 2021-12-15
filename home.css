@@ -31,8 +31,7 @@ ul {
     overflow: hidden;
     background-color: #333;
     border-radius: 10px;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 5px;
 }
 li {
    float: left;
@@ -58,6 +57,7 @@ img {
     margin-bottom: 20px;
     background-color: white;
     height: 350px;
+    margin-top: -15px;
 }
 .twitter-timeline {
 float: right;
