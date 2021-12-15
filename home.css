@@ -58,6 +58,7 @@ img {
     background-color: white;
     height: 350px;
     margin-top: -15px;
+    border-radius: 10px;
 }
 .twitter-timeline {
 float: right;
