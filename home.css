@@ -55,16 +55,13 @@ img {
 }
 .welcome {
     text-align: justify;
-    margin: 0 auto;
-    padding-left: 300px;
-    padding-right: 200px;
+}
+.twitter-timeline {
+float: right;
+margin-left: 10px;
 }
 
 footer a {
     text-align: center;
-    margin: 0 auto;
-    padding: 10px;
-    position: relative;
-    bottom: 390px;
-    left: 750px;
+   
 }
