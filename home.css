@@ -35,7 +35,7 @@ ul {
     margin-bottom: 10px;
 }
 li {
-    float: left;
+   float: left;
 }
 
 li a {
@@ -63,8 +63,6 @@ margin-left: 20px;
 }
 
 footer a {
-display: block;
-margin-left: auto;
-margin-right: auto;
-width: 50%
+display: inline;
+margin: 0 auto;
 }
