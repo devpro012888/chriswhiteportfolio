@@ -51,17 +51,19 @@ li a:hover {
 }
 img {
     float: left;
-    padding-right: 10px;
+    padding-right: 20px;
 }
 .welcome {
     text-align: justify;
+    margin-bottom: 130px;
 }
 .twitter-timeline {
 float: right;
-margin-left: 10px;
+margin-left: 20px;
 }
 
 footer a {
-    text-align: center;
-   
+display: block;
+margin: auto;
+width: auto;
 }
