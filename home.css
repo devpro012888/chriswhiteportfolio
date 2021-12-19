@@ -48,8 +48,9 @@ body {
 img {
     margin-top: 10px;
     float: left;
-    padding-right: 50px;
+    padding-right: 40px;
 }
+
 p {
     text-align: justify;
 }
@@ -60,4 +61,11 @@ float: right;
 .favlinks li {
     text-decoration: none;
     list-style-type: none;
+    display: block;
+    padding: 14px 16px;
+    border-top: solid;
+}
+li a {
+    text-decoration: none;
+    list-style: none;
 }
